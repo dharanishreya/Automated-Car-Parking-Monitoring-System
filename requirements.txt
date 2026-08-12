@@ -1,0 +1,7 @@
+pip install numpy
+pip install scikit-learn
+pip install pandas
+pip install opencv-python
+pip install tensorflow
+pip install os
+pip install flask
